@@ -1,0 +1,12 @@
+{
+  "name": "proxyecho-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "bode index.js"
+  },
+  "author": "Me",
+  "license": "MIT",
+  "dependencies": {}
+}
